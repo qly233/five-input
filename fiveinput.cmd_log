@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/szdl/fiveinput/fiveinput.xst" -ofn "D:/szdl/fiveinput/fiveinput.syr" 
